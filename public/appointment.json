@@ -1,0 +1,39 @@
+[
+    {
+        "id": 1,
+        "image": "https://i.ibb.co/zx1KrXW/Group-34994.png",
+        "name": "Teeth Orthodontics",
+        "time": "8:00 AM - 9:00 AM"
+      },
+      {
+        "id": 2,
+        "image": "https://i.ibb.co/rf8XSyG/Group-34995.png",
+        "name": "Cosmetic Dentisty",
+        "time": "10.05 AM - 11:30 AM"
+      },
+      {
+        "id": 3,
+        "image": "https://i.ibb.co/Y3Pqhy6/Group-34996.png",
+        "name": "Teeth Cleaning",
+        "time": "8:00 AM - 9:00 AM"
+      },
+      {
+        "id": 4,
+        "image": "https://i.ibb.co/gSySrqW/Group-34997.png",
+        "name": "Cavity Protection",
+        "time": "8:00 AM - 9:00 AM"
+      },
+      {
+        "id": 5,
+        "image": "https://i.ibb.co/PTq5hG2/Group-34998.png",
+        "name": "Pediatric Dental",
+        "time": "8:00 AM - 9:00 AM"
+      },
+      {
+        "id": 6,
+        "image": "https://i.ibb.co/Zdy0ZYD/Group-34999.png",
+        "name": "Oral Surgery",
+        "time": "8:00 AM - 9:00 AM"
+      }
+  ]
+  

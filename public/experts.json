@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/PMWFNhx/Rectangle-15.png",
+      "name": "Dr. Sarah Johnson",
+      "whichDoctor": "Dentist",
+      "address": "123 Main Street, Cityville",
+      "availableFrom": "9:00 AM",
+      "fees": "100",
+      "review": 5
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/VC1jX15/Rectangle-15-1.png",
+      "name": "Dr. John Smith",
+      "whichDoctor": "Cardiologist",
+      "address": "456 Elm Street, Townsville",
+      "availableFrom": "10:30 AM",
+      "fees": "150",
+      "review": 5
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/NY0n3Nb/Rectangle-15-2.png",
+      "name": "Dr. Michael Lee",
+      "whichDoctor": "Pediatrician",
+      "address": "789 Oak Avenue, Villageland",
+      "availableFrom": "2:00 PM",
+      "fees": "120",
+      "review": 5
+    }
+  ]
+  
