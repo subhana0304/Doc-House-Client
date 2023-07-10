@@ -21,7 +21,7 @@ const router = createBrowserRouter([
         {
           path: '/profile/:id',
           element: <Profile></Profile>,
-          loader: ({params}) => fetch(`http://localhost:5000/doctors/${params.id}`)
+          loader: ({params}) => fetch(`https://doc-house-server-amber.vercel.app/doctors/${params.id}`)
         },
         {
           path: '/about',
